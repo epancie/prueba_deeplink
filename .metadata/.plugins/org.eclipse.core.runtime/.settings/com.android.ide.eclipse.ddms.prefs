@@ -1,3 +1,5 @@
+ddms.logcat.auotmonitor.level=error
+ddms.logcat.automonitor.userprompt=true
 devicePanel.Col0=268
 devicePanel.Col1=129
 devicePanel.Col4=231
